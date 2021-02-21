@@ -32,10 +32,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=areekaaijaz123&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/areeka-aijaz-5595a5185"><img src="https://img.shields.io/badge/-Areeka%Aijaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:areeka.aijaz@yahoo.com"><img src="https://img.shields.io/badge/-areeka.aijaz@yahoo.com-D14836?style=flat&logo=Yahoo&logoColor=white"/></a>
-</p>
