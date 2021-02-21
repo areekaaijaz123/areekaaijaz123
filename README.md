@@ -1,4 +1,5 @@
-
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  
 <h2>Hey there! I'm Areeka</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Areeka -->
