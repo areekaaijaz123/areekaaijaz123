@@ -10,8 +10,6 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, and Deep Learning.\
 ✉️ &nbsp;You can shoot me an email at areeka.aijaz@yahoo.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,8 +24,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Jupyter Notebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7K9d3N4Z5i8G6_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon%2F&psig=AOvVaw2v0lICnNL78LC7Wso2I7oU&ust=1613981898406000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDZ4qvF-u4CFQAAAAAdAAAAABAD)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
