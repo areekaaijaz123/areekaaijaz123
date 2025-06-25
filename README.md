@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I completed **BSCS (Bachelors in Computer Science)** from **FAST National University of Computing & Emerging Science**.\
-💼 &nbsp;I'm currently a **Software Engineer at Retrocausal**, where I’ve been working for the past **2.5 years**.\
+💼 &nbsp;I'm currently a **Software Engineer at Retrocausal**.\
 🚀 &nbsp;I have hands-on experience with **Elasticsearch, Django DRF (Python), AWS, and Terraform**.\
 ✉️ &nbsp;You can shoot me an email at **areeka.aijaz@yahoo.com**! I'll try to respond as soon as I can.\
 🔗 &nbsp;**Connect with me on LinkedIn:** [Areeka Aijaz](https://www.linkedin.com/in/areeka-aijaz-5595a5185/)
