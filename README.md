@@ -70,7 +70,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics (Only for Public Repos)
 <p align="center">
 <a href="https://github.com/areekaaijaz123">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=areekaaijaz123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
