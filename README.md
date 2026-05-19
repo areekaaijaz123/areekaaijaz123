@@ -9,7 +9,6 @@
 
 ✉️ Reach me at: **areekaaijaz@gmail.com**  
 🔗 LinkedIn: [Areeka Aijaz](https://www.linkedin.com/in/areekaaijaz-5595a5185/)
-
 📊 Portfolio: [Areeka Aijaz](https://areeka-aijaz-b6mayzy.gamma.site/)
 
 ---
