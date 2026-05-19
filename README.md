@@ -6,7 +6,7 @@
 🎓 BSCS from FAST National University of Computer & Emerging Sciences  
 💼 Software Engineer at Retrocausal (AI-powered manufacturing systems)  
 🚀 Focused on backend systems, cloud infrastructure, CI/CD automation, and production reliability  
-📊 Portfolio: [Areeka Aijaz](https://areeka-aijaz-b6mayzy.gamma.site/)
+📊 Portfolio: [Areeka Aijaz](https://areekaaijaz123.github.io/Portfolio/)
 
 ✉️ Reach me at: **areekaaijaz@gmail.com**  
 🔗 LinkedIn: [Areeka Aijaz](https://www.linkedin.com/in/areekaaijaz-5595a5185/)
@@ -84,6 +84,6 @@
 
 ### 📫 Contact
 
-Open to Backend / Software / Platform Engineer roles (UK / Remote)
+Open to Backend / Software / Platform Engineer roles
 
 📧 areekaaijaz@gmail.com
